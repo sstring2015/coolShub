@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shubham Singh
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React.js
 - 📫  Email:singhshubham7m@gmail.com  ||  linkedIn: https://www.linkedin.com/in/shubham-singh-4600831b3/
